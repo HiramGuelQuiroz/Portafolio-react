@@ -7,6 +7,30 @@ export const trabajos = [
         'categorias': 'Desarrollo web',
         'descripcion': 'Trata sobre una pagina donde puedes registrar a tus mascotas para agendar citas'
     },
+    {
+        'id': 'constructora',
+        'nombre': 'Página para una Constructora en Wordpress',
+        'url': 'construmundo.hiramdigitalworks.com/',
+        'tecnologias': 'Worpress',
+        'categorias': 'Diseño web',
+        'descripcion': 'Esta página creada con la finalidad de promover servicios de construcción fue creada con 4 secciones, Inicio, servicios, contacto, nosotros. Para la creación de los textos se usó inteligencia artificial'
+    },
+    {
+        'id': 'barberia',
+        'nombre': 'Pagina para Barberia en Wordpress con agenda de citas',
+        'url': 'thebarberexperience.hiramdigitalworks.com/',
+        'tecnologias': 'Wordpress',
+        'categorias': 'Diseño web',
+        'descripcion': 'Esta página creada con la finalidad de promover servicios de Barberia fue creada con 4 secciones, Inicio, servicios, contacto, nosotros. Para la creación de los textos se usó inteligencia artificial'
+    },
+    {
+        'id': 'odontologia',
+        'nombre': 'Página web de Odontología',
+        'url': 'sonrisa-perfecta.hiramdigitalworks.com/',
+        'tecnologias': 'Wordpress',
+        'categorias': 'Diseño web',
+        'descripcion': 'Esta página creada con la finalidad de promover servicios para dentistas, fue creada con 5 secciones. Para la creación de los textos se usó inteligencia artificial y WordPress'
+    },
 
     {
         'id': 'Encriptador',
