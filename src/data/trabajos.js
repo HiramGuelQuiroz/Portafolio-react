@@ -8,6 +8,14 @@ export const trabajos = [
         'descripcion': 'Trata sobre una pagina donde puedes registrar a tus mascotas para agendar citas'
     },
     {
+        'id': 'carrito',
+        'nombre': 'Carrito de compras (DOM)',
+        'url': 'carrito-compras-manejo-dom.netlify.app/',
+        'tecnologias': 'HTML, CSS, JS',
+        'categorias': 'Desarrollo web',
+        'descripcion': 'Pagina que simula un carrito de compras, haciendo uso del DOM en Js'
+    },
+    {
         'id': 'constructora',
         'nombre': 'Página para una Constructora en Wordpress',
         'url': 'construmundo.hiramdigitalworks.com/',

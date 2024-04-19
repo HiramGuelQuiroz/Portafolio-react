@@ -16,15 +16,11 @@ export const RouterPrincipal = () => {
     <BrowserRouter>
         
         <HeaderNav></HeaderNav>
-
-        
-
        
         <hr/>
 
         <section className='contenido-principal'>
 
-        
         <Routes>
             <Route path="/" element={<Navigate to="/inicio"/>} /> 
             <Route path="/inicio" element={<Inicio/>} /> 
@@ -34,13 +30,9 @@ export const RouterPrincipal = () => {
             <Route path="/contacto" element={<Contacto/>} />
             <Route path="/proyecto/:id" element={<Proyecto/>} />
             <Route path="*" element={<h1 className='heading'> Error 404</h1>} /> 
-            
         </Routes>
 
         </section>
-         
-        
-
         {/* FOOTER */} 
         <Footer></Footer>
     </BrowserRouter>
