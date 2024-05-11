@@ -15,30 +15,8 @@ export const trabajos = [
         'categorias': 'Desarrollo web',
         'descripcion': 'Pagina que simula un carrito de compras, haciendo uso del DOM en Js'
     },
-    {
-        'id': 'constructora',
-        'nombre': 'Página para una Constructora en Wordpress',
-        'url': 'construmundo.hiramdigitalworks.com/',
-        'tecnologias': 'Worpress',
-        'categorias': 'Diseño web',
-        'descripcion': 'Esta página creada con la finalidad de promover servicios de construcción fue creada con 4 secciones, Inicio, servicios, contacto, nosotros. Para la creación de los textos se usó inteligencia artificial'
-    },
-    {
-        'id': 'barberia',
-        'nombre': 'Pagina para Barberia en Wordpress con agenda de citas',
-        'url': 'thebarberexperience.hiramdigitalworks.com/',
-        'tecnologias': 'Wordpress',
-        'categorias': 'Diseño web',
-        'descripcion': 'Esta página creada con la finalidad de promover servicios de Barberia fue creada con 4 secciones, Inicio, servicios, contacto, nosotros. Para la creación de los textos se usó inteligencia artificial'
-    },
-    {
-        'id': 'odontologia',
-        'nombre': 'Página web de Odontología',
-        'url': 'sonrisa-perfecta.hiramdigitalworks.com/',
-        'tecnologias': 'Wordpress',
-        'categorias': 'Diseño web',
-        'descripcion': 'Esta página creada con la finalidad de promover servicios para dentistas, fue creada con 5 secciones. Para la creación de los textos se usó inteligencia artificial y WordPress'
-    },
+    
+    
 
     {
         'id': 'Encriptador',
@@ -57,6 +35,17 @@ export const trabajos = [
         'categorias': 'Desarrollo web',
         'descripcion': 'Este proyecto te ayuda a ser más organizado con tus cuentas de la semana mediante el presupuesto que tú le indiques. Puedes agregar o quitar gastos según lo requieras.',
     },
+
+    {
+        'id': 'Formulario',
+        'nombre': 'Formulario',
+        'url': 'fomulario-hiramguel.netlify.app/',
+        'tecnologias': 'HTML, CSS, JS',
+        'categorias': 'Desarrollo web',
+        'descripcion': 'Este este formulario fue creado para mostrar dominio del manejo del DOM',
+    },
+
+
 
     {
     'id': 'Cursos',
