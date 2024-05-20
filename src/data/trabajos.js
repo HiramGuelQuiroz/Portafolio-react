@@ -18,7 +18,7 @@ export const trabajos = [
     {
         'id': 'cotizador',
         'nombre': 'Cotizador de seguros',
-        'url': 'https://cotizador-seguros-prototypos.netlify.app/',
+        'url': 'cotizador-seguros-prototypos.netlify.app/',
         'tecnologias': 'HTML, CSS, JS',
         'categorias': 'Desarrollo web',
         'descripcion': 'Pagina que simula un cotizador de seguros utilizando Prototypes en JS'
