@@ -13,9 +13,16 @@ export const trabajos = [
         'url': 'carrito-compras-manejo-dom.netlify.app/',
         'tecnologias': 'HTML, CSS, JS',
         'categorias': 'Desarrollo web',
-        'descripcion': 'Pagina que simula un carrito de compras, haciendo uso del DOM en Js'
+        'descripcion': 'Pagina que simula un carrito de compras, haciendo uso del DOM Y Local Storage Js'
     },
-    
+    {
+        'id': 'cotizador',
+        'nombre': 'Cotizador de seguros',
+        'url': 'https://cotizador-seguros-prototypos.netlify.app/',
+        'tecnologias': 'HTML, CSS, JS',
+        'categorias': 'Desarrollo web',
+        'descripcion': 'Pagina que simula un cotizador de seguros utilizando Prototypes en JS'
+    },
     
 
     {
