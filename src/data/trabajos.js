@@ -8,6 +8,14 @@ export const trabajos = [
         'descripcion': 'Trata sobre una pagina donde puedes registrar a tus mascotas para agendar citas'
     },
     {
+        'id': 'clima',
+        'nombre': 'API con FETCH de clima',
+        'url': 'api-fetch-clima.netlify.app/',
+        'tecnologias': 'HTML, CSS, JS',
+        'categorias': 'Desarrollo web',
+        'descripcion': 'En esta pagina puedes consultar el clima de cualquier estado mediante esta API creada con fetch'
+    },
+    {
         'id': 'carrito',
         'nombre': 'Carrito de compras (DOM)',
         'url': 'carrito-compras-manejo-dom.netlify.app/',
